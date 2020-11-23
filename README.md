@@ -3,7 +3,7 @@
 I'm Hri7566. I make Node.js project and I hang out on [Multiplayer Piano](https://www.multiplayerpiano.com). Usually, I'm in a room with the name "✧𝓡𝓟 𝓡𝓸𝓸𝓶✧" (nobody roleplays, trust me).
 
 - 🔭 I’m currently working on [Duck](https://github.com/Hri7566/duck), a bot for Discord.
-- 🌱 I’m currently learning **C++**.
+- 🌱 I’m currently learning **Node.js**.
 - 👯 I’m looking to collaborate on **Node.js** projects.
 - 🤔 I’m looking for help with Websockets in **C++** or **C#**.
 - 💬 Ask me about [Multiplayer Piano](https://www.multiplayerpiano.com).
