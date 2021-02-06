@@ -99,6 +99,16 @@ New Year's Eve comes up, and I spend the night at my girlfriend's house. On Janu
 
 Now it's the end of January, and my grades have dropped *considerably* since September like a lot of other people, and grades are due at the end of next week. Wish me luck.
 
+### Update 2/6/2021
+
+Alright, it's the beginning of February. My gf is in Virginia with her sister, and we tell each other that we miss each other every ten minutes or so.
+
+School's starting to pick up speed. We're supposed to go back in March, so they're trying to get us back to the usual schedule and not doing whatever during school time, they want to make sure we're online and not destroying our stomachs and sleep schedules and stuff. One of my classes is in Zoom instead of MS Teams and my teachers are having huge issues with it. They blamed it on MS Teams, but since it was their decision to use zoom...
+
+Anyway, I promised my guidance counselor that I would try my best in AP Calc and bring my grade up so that I can try to get that associate's degree, which would be REALLY helpful because I can just skip two years of BS in college.
+
+Today, I'm also going to check out my brother Eric's new house, which is gonna be fun. We're bringing camping chairs and we're going to Rexy's Pizza to bring him his favorite pizza. My mom also has some of his old stuff that he left here almost twenty years ago.
+
 <!--
 **Hri7566/Hri7566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
