@@ -18,15 +18,17 @@ I grew up with computers, and, like a lot of others, they're one of my favorite 
 
 When I was in grade school, I was looking for a reason to become someone cool, like everyone does. I poked around with C a little bit, but it was a terrible place to start and I didn't like it very much. I wanted to learn how to do stuff like make Minecraft mods or make a game, but these projects were definitely way over my head and I didn't even know what Unity was, let alone ever seen a snippit of code.
 
-Around 7th or 8th grade (2015), I found people on YouTube playing this game called Mari0, where you play through Super Mario Bros. with a portal gun. I downloaded the game and played it for hours on end wondering how someone was able to pull this off. Eventually, I learned about how it was made and I looked into https://love2d.org and started to learn how to program in Lua. This also lead me into Roblox games, but i never got that far there.
+Around 7th or 8th grade (2015), I found people on YouTube playing this game called [Mari0](https://stabyourself.net/mari0/), where you play through Super Mario Bros. with a portal gun. I downloaded the game and played it for hours on end wondering how someone was able to pull this off. Eventually, I learned about how it was made and I looked into https://love2d.org and started to learn how to program in Lua. This also lead me into Roblox games, but i never got that far there.
 
-In September 2018, I met some cool people on MPP who were running some browser-based chat bots and I wanted to be like them. Soon afterwards, I found myself collaborating on someone else's script, and I picked up some scripting skills as I went along. Eventually, I started work on my own bot and it was just as bad and just as long as everyone else's.
+In September 2018, I met some cool people on MPP who were running some browser-based chat bots and I wanted to be like them. A couple days in, I grew a friendship with a programmer named Karl. Soon afterwards, I found myself collaborating on Karl's bot, and I picked up some scripting skills as I went along. Eventually, I started work on my own bot and it was just as bad and just as long as Karl's.
 
-Sometime in early 2019, the "someone else" that I helped had moved from Tampermonkey to NodeJS on Heroku, and I learned how to use git. I moved my bot to NodeJS as well (though not on Heroku), and then something terrible happened...
+Sometime in early 2019, Karl had moved from Tampermonkey to NodeJS on Heroku, and I learned how to use git. I moved my bot to NodeJS as well (though not on Heroku), and then something terrible happened...
 
-About a week after my bot was ported, my friend's computer died, so we could no longer work together on his script. I inherited some parts of his bot (with permission, of course) and started to fledge out my bot. Sometime in late 2019, a user by the name of [BopItFreak](https://github.com/BopItFreak) threw some old code at me without telling me why. I studied it long and hard, and this was my introduction to object-oriented programming. After that point, I rewrote my bot and it started to get genuinely good features, such as cursor animation modes and user data storage (some of it *might* have been stolen from bop it at one point, but I was learning!).
+About a week after my bot was ported, Karl's computer died, so we could no longer work together on his script. I inherited some parts of his bot (with permission, of course) and started to fledge out my bot. Sometime in late 2019, a user by the name of [BopItFreak](https://github.com/BopItFreak) threw some old code at me without telling me why (some other people said he was angry). I studied it long and hard, and it made me feel like a goldfish. This was my introduction to object-oriented programming (how could I have made it so far without it?). After that point, I rewrote my bot and it started to get genuinely good features, such as cursor animation modes and user data storage (some of it *might* have been stolen from bop it at one point, but I was learning!).
 
-In November 2020, I rewrote my bot again and now it's completely cross-compatible with MPP and Discord and also released https://hri7566.info/mpp (now replaced with https://mpp.hri7566.info).
+In November 2020, I rewrote my bot again and now it's completely cross-compatible with MPP and Discord.
+
+In February, 2021, Karl came back.
 
 ### What 2020 was like for me
 
