@@ -2,17 +2,23 @@
 
 I'm Hri7566. I make Node.js projects and I hang out on [Multiplayer Piano](https://www.multiplayerpiano.com). Usually, I'm in a room with the name "✧𝓡𝓟 𝓡𝓸𝓸𝓶✧" (nobody roleplays there, they've been moved to "The Roleplay Room").
 
-- 🔭 I’m currently working on ~~[7566](https://github.com/Hri7566/bot-server)~~ ~~a replacement for the MPP crown holder, Bouncer~~ a [discord bot that can draw](https://github.com/Hri7566/canvas-bot).
-- 🌱 I’m currently learning ~~**Node.js**~~ TypeScript.
-- 👯 I’m looking to ~~collaborate on **Node.js** projects~~ collaborate on MPP scripts.
-- 🤔 I’m looking for help with WebSockets in Deno.
-- 💬 Ask me about [Multiplayer Piano](https://www.multiplayerpiano.com) I'm not available to answer questions.
-- 📫 How to reach me: My Discord tag is **Hri7566#3409**, and my Twitter handle is **@Hri7566**.
+- 🔭 I’m currently working on ~~[7566](https://github.com/Hri7566/bot-server)~~ ~~a replacement for the MPP crown holder, Bouncer~~ a [Discord bot that can draw](https://github.com/Hri7566/canvas-bot).
+- 🌱 I’m currently learning ~~Node.js~~ ~~TypeScript~~ ~~Deno~~ C++.
+- 👯 I’m looking to ~~collaborate on Node.js projects~~ ~~collaborate on MPP scripts~~ collaborate on Discord bots.
+- 🤔 I’m looking for help with WebSockets in Deno (specifically clients).
+- 💬 Ask me about [Multiplayer Piano](https://www.multiplayerpiano.com)!
+- 📫 How to reach me: My Discord tag is **Hri7566#3409** and my Twitter handle is **@Hri7566**.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've only been programming in JavaScript for two years.
 
 
 ### About my programming
+
+I grew up with computers, and, like a lot of others, they're one of my favorite things. I used my dad's 2002 iMac G4 to play stuff like Marble Blast and Otto Matic and use Firefox to browse PBS Kids.
+
+When I was in grade school, I was looking for a reason to become someone cool, like everyone does. I poked around with C a little bit, but it was a terrible place to start and I didn't like it very much. I wanted to learn how to do stuff like make Minecraft mods or make a game, but these projects were definitely way over my head and I didn't even know what Unity was, let alone ever seen a snippit of code.
+
+Around 7th or 8th grade (2015), I found people on YouTube playing this game called Mari0, where you play through Super Mario Bros. with a portal gun. I downloaded the game and played it for hours on end wondering how someone was able to pull this off. Eventually, I learned about how it was made and I looked into https://love2d.org and started to learn how to program in Lua. This also lead me into Roblox games, but i never got that far there.
 
 In September 2018, I met some cool people on MPP who were running some browser-based chat bots and I wanted to be like them. Soon afterwards, I found myself collaborating on someone else's script, and I picked up some scripting skills as I went along. Eventually, I started work on my own bot and it was just as bad and just as long as everyone else's.
 
@@ -20,8 +26,7 @@ Sometime in early 2019, the "someone else" that I helped had moved from Tampermo
 
 About a week after my bot was ported, my friend's computer died, so we could no longer work together on his script. I inherited some parts of his bot (with permission, of course) and started to fledge out my bot. Sometime in late 2019, a user by the name of [BopItFreak](https://github.com/BopItFreak) threw some old code at me without telling me why. I studied it long and hard, and this was my introduction to object-oriented programming. After that point, I rewrote my bot and it started to get genuinely good features, such as cursor animation modes and user data storage (some of it *might* have been stolen from bop it at one point, but I was learning!).
 
-In November 2020, I rewrote my bot again and now it's completely cross-compatible with MPP and Discord. The only issue I have now is running it without my Raspberry Pi.
-
+In November 2020, I rewrote my bot again and now it's completely cross-compatible with MPP and Discord and also released https://hri7566.info/mpp (now replaced with https://mpp.hri7566.info).
 
 ### What 2020 was like for me
 
@@ -108,6 +113,12 @@ School's starting to pick up speed. We're supposed to go back in March, so they'
 Anyway, I promised my guidance counselor that I would try my best in AP Calc and bring my grade up so that I can try to get that associate's degree, which would be REALLY helpful because I can just skip two years of BS in college.
 
 Today, I'm also going to check out my brother Eric's new house, which is gonna be fun. We're bringing camping chairs and we're going to Rexy's Pizza to bring him his favorite pizza. My mom also has some of his old stuff that he left here almost twenty years ago.
+
+### Update 2/11/2021
+
+I can't stand not being able to see my gf.
+
+Last night, I started work on https://mpp.hri7566.info, but it doesn't work.
 
 <!--
 **Hri7566/Hri7566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
