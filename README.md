@@ -1,3 +1,5 @@
+[beans](https://img.shields.io/badge/pipeline-beans-775500)
+
 ### Hi there 👋
 
 UPDATE: I've started to move to [GitLab](https://gitlab.com/Hri7566).
