@@ -1,4 +1,4 @@
-[beans](https://img.shields.io/badge/pipeline-beans-775500)
+[![beans](https://img.shields.io/badge/pipeline-beans-775500)](https://hri7566.info)
 
 ### Hi there 👋
 
