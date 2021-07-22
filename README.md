@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Hri7566. I make Node.js projects ~~and I hang out on [Multiplayer Piano](https://www.multiplayerpiano.com). Usually, I'm in a room with the name "✧𝓡𝓟 𝓡𝓸𝓸𝓶✧" (nobody roleplays there, they've been moved to "The Roleplay Room")~~. R.I.P. Multiplayer Piano 2012-2021
+I'm Hri7566. I make Node.js projects.
 
 - 🔭 I’m currently working on ~~[7566](https://github.com/Hri7566/bot-server)~~.
 - 🌱 I’m currently learning Node.js.
