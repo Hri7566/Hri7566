@@ -7,7 +7,7 @@ I'm Hri7566. I make Node.js projects.
 - 🔭 I’m currently working on ~~[7566](https://github.com/Hri7566/bot-server)~~.
 - 🌱 I’m currently learning Node.js.
 - 👯 I’m looking to collaborate on Node.js projects.
-- 🤔 I’m looking for help with WebSockets in Deno (specifically clients).
+- 🤔 I’m looking for help with transitioning from Node.js to C++.
 - 💬 Ask me about [Multiplayer Piano](https://www.multiplayerpiano.com)!
 - 📫 How to reach me: My Discord tag is **Hri7566#3409** and my Twitter handle is **@Hri7566**.
 - 😄 Pronouns: He/Him
