@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 
 
-![Hri7566's GitHub stats](https://github-readme-stats.vercel.app/api?username=hri7566&show_icons=true&theme=dark)
+[![Hri7566's GitHub stats](https://github-readme-stats.vercel.app/api?username=hri7566&show_icons=true&theme=dark)](https://metrics.lecoq.io/Hri7566?template=classic)
