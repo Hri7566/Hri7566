@@ -5,10 +5,10 @@
 I'm Hri7566. I make Node.js projects.
 
 - 🔭 I’m currently working on [the fishing Discord server](https://discord.gg/yBdmPKag).
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning Go.
 - 👯 I’m looking to collaborate on Node.js projects.
 - 🤔 I’m looking for help with transitioning from Node.js to C++.
-- 💬 Ask me about Brandon's Fishing Bot!
+- 💬 Ask me about [Brandon's Fishing Bot](https://github.com/multiplayerpiano/fishing-bot)!
 - 📫 How to reach me: My Discord tag is **Hri7566#3409** and my Twitter handle is **@Hri7566**.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been programming in JavaScript for three years.
