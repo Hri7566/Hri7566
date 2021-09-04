@@ -2,11 +2,11 @@
 
 ### Hi there 👋
 
-I'm Hri7566. I make Node.js projects.
+I make Node.js projects.
 
 Here's an invitation to my [fishing Discord server](https://discord.gg/yBdmPKag).
 
-- 🔭 I’m currently working on school.
+- 🔭 I’m currently working on schoolwork.
 - 🌱 I’m currently learning Python for my CS course.
 - 👯 I’m looking to collaborate on literally anything that has to do with backend web.
 - 🤔 I’m looking for help with transitioning from Node.js to Python.
