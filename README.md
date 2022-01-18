@@ -6,7 +6,7 @@ I make Node.js projects.
 
 Here's an invitation to my [fishing Discord server](https://discord.gg/yBdmPKag).
 
-- 🔭 I’m currently working on schoolwork.
+- 🔭 I’m currently working on a setup for streaming on [Twitch](https://twitch.tv/hri7566).
 - 🌱 I’m currently learning Python for my CS course.
 - 👯 I’m looking to collaborate on literally anything that has to do with backend web.
 - 🤔 I’m looking for help with transitioning from Node.js to Python.
