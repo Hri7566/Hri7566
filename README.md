@@ -1,8 +1,14 @@
 [![beans](https://img.shields.io/badge/pipeline-beans-775500)](https://hri7566.info)
 
-### Hi there 👋
-
-I make Node.js projects.
+### heya :3
+I'm Hri7566. You probably either know me very well
+or hate me a lot, and if you're not someone I know, you must be lost.
+I'm from a crazy dumpster fire called <a href="https://multiplayerpiano.com">MPP</a>.
+At the moment of writing, MPP is completely offline. At this time, I'm
+the best programmer I've ever been: I'm making large scale projects,
+starting not to host from home, learning what not to do from higher ups,
+and it's been a lot of fun. If you know me from Discord, well, if you 
+didn't know already, I'm a (terrible) programmer.
 
 Here's an invitation to my [fishing Discord server](https://discord.gg/yBdmPKag).
 
