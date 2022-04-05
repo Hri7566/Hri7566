@@ -1,4 +1,4 @@
-[![beans](https://img.shields.io/badge/pipeline-beans-775500)](https://hri7566.info)
+[![beans](https://img.shields.io/badge/ideas-bad-c01000)](https://hri7566.info)
 
 ### heya :3
 I'm Hri7566.
