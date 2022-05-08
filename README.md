@@ -1,5 +1,3 @@
-[![beans](https://img.shields.io/badge/ideas-bad-c01000)](https://hri7566.info)
-
 ### heya :3
 I'm Hri7566. I currently have no job and I am a hobbyist developer.
 Sometimes I like to mess with VRChat and make some melonloader mods with some people.
