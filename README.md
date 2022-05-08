@@ -2,7 +2,9 @@
 I'm Hri7566. I currently have no job and I am a hobbyist developer.
 Sometimes I like to mess with VRChat and make some melonloader mods with some people.
 
-I am what you call a full-stack developer (but I'm still learning).
+I am what you call a full-stack developer.
+
+If there's anything I don't know yet, I usually learn subjects within a week.
 
 Here's an invitation to my [fishing Discord server](https://discord.gg/yBdmPKag).
 My Discord account: Hri7566#3409
