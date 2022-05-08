@@ -1,11 +1,8 @@
 [![beans](https://img.shields.io/badge/ideas-bad-c01000)](https://hri7566.info)
 
 ### heya :3
-I'm Hri7566.
-Sometimes I like to play VRChat (when I'm not banned).
-I'm from a crazy dumpster fire called <a href="https://multiplayerpiano.com">MPP</a>. At this time, I'm
-the worst programmer I've ever been: I'm coming up with terrible ideas, having others talk down on me.
-If you know me from Discord, well, if you couldn't figure it out already, I'm a programmer.
+I'm Hri7566. I currently have no job and I am a hobbyist developer.
+Sometimes I like to mess with VRChat and make some melonloader mods with some people.
 
 Here's an invitation to my [fishing Discord server](https://discord.gg/yBdmPKag).
 My Discord account: Hri7566#3409
