@@ -9,11 +9,11 @@ If there's anything I don't know yet, I usually learn subjects within a week.
 Here's an invitation to my [fishing Discord server](https://discord.gg/yBdmPKag).
 My Discord account: Hri7566#3409
 
-- 🔭 I’m currently working on a setup for streaming on [Twitch](https://twitch.tv/hri7566).
-- 🌱 I’m currently learning Python for my CS course.
+- 🔭 I’m currently working nowhere.
+- 🌱 I’m currently learning SQL.
 - 👯 I’m looking to collaborate on any casual web projects (please let me involve humor).
-- 🤔 I’m looking for help with transitioning from Node.js to C++.
-- 💬 Ask me about [Brandon's Fishing Bot](https://github.com/multiplayerpiano/fishing-bot)!
+- 🤔 I’m looking for help getting back on track, since I quit school.
+- 💬 Ask me about [Brandon's Fishing Bot](https://github.com/multiplayerpiano/fishing-bot)! It's what my fishing server is based on.
 - 📫 How to reach me: My Discord tag is **Hri7566#3409** and my Twitter handle is **[@Hri7566](https://twitter.com/hri7566)**.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been programming for six years.
