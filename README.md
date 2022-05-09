@@ -1,4 +1,4 @@
-### Hri7566
+### About
 I'm Ethan and I currently have no job and I am a hobbyist developer.
 I learned JavaScript over the span of a week helping someone with a tampermonkey script, and I've been trying to master the art of it for years.
 
