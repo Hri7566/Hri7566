@@ -1,7 +1,3 @@
-### Notice
-
-If you're looking to hire me, [here is my resume](https://gist.github.com/Hri7566/f08ca167df4a2a2ca9c26cf9f36520ea).
-
 ### About
 I'm Ethan and I currently have no job and I am a hobbyist developer.
 I learned JavaScript over the span of a week helping someone with a tampermonkey script, and I've been trying to master the art of it for years.
