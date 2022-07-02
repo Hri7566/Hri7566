@@ -19,6 +19,7 @@ If you would like to inquire about work, you can contact my on Discord or by cel
 - 📫 How to reach me: My Discord tag is **Hri7566#3409** and my Twitter handle is **[@Hri7566](https://twitter.com/hri7566)**.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been programming for six years.
+- :octocat: Secondary account: [ehampto2](https://github.com/ehampto2)
 
 ### Other links
 
