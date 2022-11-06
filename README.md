@@ -1,3 +1,6 @@
+Fuck you all, and fuck me as well.
+
+<!--
 ### About
 I currently have no job and I am a hobbyist developer.
 I learned JavaScript over the span of a week helping someone with a tampermonkey script, and I've been trying to master the art of it for years.
@@ -25,6 +28,7 @@ If you would like to inquire about work, you can contact my on Discord or by cel
 
 - [GitLab](https://gitlab.com/hri7566)
 - [Gitea.moe](https://gitea.moe/Hri7566)
+-->
 <!-- - [Homepage](https://hri7566.info) -->
 
 <!--
@@ -42,6 +46,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 [![Hri7566's GitHub stats](https://github-readme-stats.vercel.app/api?username=hri7566&show_icons=true&theme=dark)](https://metrics.lecoq.io/Hri7566?template=classic)
 
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hri7566&layout=compact&theme=dark)](https://metrics.lecoq.io/Hri7566?template=classic)
+-->
