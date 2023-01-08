@@ -6,6 +6,8 @@ My Discord account: Hri7566#3409
 
 If you would like to talk, you can contact me on Discord. You can try my gmail or Twitter, but I don't check those as often.
 
+I'm a contributor and core member of MPPClone/Multiplayer Piano and have created many scripts and projects centered around it.
+
 - 🔭 I’m currently unemployed.
 - 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on any casual web projects.
