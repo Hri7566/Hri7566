@@ -26,8 +26,6 @@ My real name is not listed here because I use this account in public view of str
 - [Gitea.moe](https://gitea.moe/Hri7566)
 - [Homepage](https://hri7566.info)
 - [Neocities](https://hri7566.neocities.org)
-- [MPPClone](https://mppclone.com)
-- [My MPP](https://mpp.hri7566.info)
 - [Discord Bridge Server](https://discord.gg/k44Eqha)
 - [BlitzPiano](https://github.com/BlitzPiano)
 
