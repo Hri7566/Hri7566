@@ -11,7 +11,7 @@ I'm a contributor and core member of MPPClone/Multiplayer Piano and have created
 My real name is not listed here because I use this account in public view of strange people.
 
 - 🔭 I’m currently unemployed.
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning absolutely nothing.
 - 👯 I’m looking to collaborate on any casual web projects.
 - 🤔 I’m looking for a job.
 - 💬 Ask me about [MPP](https://mppclone.com), it's my internet culture.
