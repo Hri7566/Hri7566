@@ -11,9 +11,9 @@ I'm a contributor to MPPClone and have created many scripts and projects centere
 My real name is not listed here because I use this account in public view of strange people.
 
 - 🔭 I’m currently unemployed.
-- 🌱 I’m currently learning absolutely nothing.
-- 👯 I’m looking to collaborate on any casual web projects.
-- 🤔 I’m looking for a job.
+- 🌱 I’m currently learning how to manage larger projects.
+- 👯 I’m looking to collaborate on any web projects or games
+- 🤔 I’m desperately looking for work.
 - 💬 Ask me about [MPP](https://mppclone.com), it's my internet culture.
 - 📫 How to reach me: My Discord tag is **Hri7566#3409** and my Twitter handle is **[@Hri7566](https://twitter.com/hri7566)**.
 - 😄 Pronouns: highness/majesty
