@@ -16,13 +16,13 @@ My real name is not listed here because I use this account in public view of str
 - 🤔 I’m looking for a job.
 - 💬 Ask me about [MPP](https://mppclone.com), it's my internet culture.
 - 📫 How to reach me: My Discord tag is **Hri7566#3409** and my Twitter handle is **[@Hri7566](https://twitter.com/hri7566)**.
-- 😄 Pronouns: Your Highness
+- 😄 Pronouns: highness/majesty
 - ⚡ Fun fact: I've been programming for six years.
 - :octocat: Secondary account: [phantomnahte](https://github.com/phantomnahte)
 
 ### Projects I am most proud of
 
-see [hri7566.info](https://hri7566.info)
+See [hri7566.info](https://hri7566.info) or my pinned projects.
 
 ### Affiliated links
 
