@@ -1,6 +1,6 @@
 ### About
 
-I currently have no job and I am a hobbyist developer.
+I currently have no job and I am struggling to survive as a hobbyist developer.
 
 My Discord account: Hri7566#3409
 
