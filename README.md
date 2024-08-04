@@ -2,7 +2,7 @@
 
 the self-taught person who has a lot of repositories
 
-- 🔭 I’m currently working on .
+- 🔭 I’m currently working on [mpp-server-dev2](https://git.hri7566.info/Hri7566/mpp-server-dev2), an implementation of the Multiplayer Piano server protocol.
 - 🌱 I’m currently learning Haskell.
 - 👯 I’m looking to collaborate on any web projects or game development.
 - 🤔 I’m desperately looking for work.
