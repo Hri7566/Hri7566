@@ -5,7 +5,7 @@ the self-taught person who has a lot of repositories
 - 🔭 I’m currently working on [mpp-server-dev2](https://git.hri7566.info/Hri7566/mpp-server-dev2), an implementation of the Multiplayer Piano server protocol.
 - 🌱 I’m currently learning Haskell.
 - 👯 I’m looking to collaborate on any web projects or game development.
-- 🤔 I’m desperately looking for work.
+<!-- 🤔 I’m desperately looking for work.-->
 - 💬 Ask me about [MPP](https://multiplayerpiano.net), it's my internet culture.
 - 📫 How to reach me: My Discord tag is **@hri7566** and my Twitter handle is **[@Hri7566](https://twitter.com/hri7566)**.
 - 😄 Pronouns: highness/majesty/prefer not to say/they/them
@@ -21,6 +21,8 @@ See [hri7566.info](https://hri7566.info) or my pinned projects here on GitHub.
 - [Gitea Server](https://git.hri7566.info)
 - [GitLab](https://gitlab.com/hri7566)
 - [Gitea.moe](https://gitea.moe/Hri7566)
+- [XNL Homepage](https://xnl.hri7566.info)
+- [XCL Homepage](https://xcl.hri7566.info)
 
 <!--
 **Hri7566/Hri7566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
