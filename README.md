@@ -9,7 +9,7 @@ the self-taught person who has a lot of repositories
 - 💬 Ask me about [MPP](https://multiplayerpiano.net), it's my internet culture.
 - 📫 How to reach me: My Discord tag is **@hri7566** and my Twitter handle is **[@Hri7566](https://twitter.com/hri7566)**.
 - 😄 Pronouns: highness/majesty/prefer not to say/they/them
-- ⚡ Fun fact: [I made an album](https://www.youtube.com/watch?v=s7UQpu23y8s)
+- ⚡ Fun fact: [I made *two* albums](https://music.youtube.com/channel/UCSBBUnbRSJqDNtBdHdxysKA#details)
 
 ### Projects I am most proud of
 
