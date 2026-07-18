@@ -2,12 +2,12 @@
 
 the self-taught person who has a lot of repositories
 
-- 🔭 I’m currently working on a new secret project.
-- 🌱 I’m currently learning Haskell's crazyn ess.
+- 🔭 I’m currently working on a game called Wilson's Law.
+- 🌱 I’m currently learning how to do pixel art.
 - 👯 I’m looking to collaborate on any web projects or game development.
 - 💬 Ask me about [MPP](https://multiplayerpiano.net), it's my internet culture.
 - 📫 How to reach me: My Discord tag is **@hri7566**, which is the same as most platforms I'm on.
-- 😄 Pronouns: highness/majesty/he/him
+- 😄 Pronouns: any
 - ⚡ Fun fact: [I made *two* albums](https://music.youtube.com/channel/UCSBBUnbRSJqDNtBdHdxysKA#details) and I'm working on a third.
 
 ### Projects I am most proud of
