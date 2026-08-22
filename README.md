@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hri7566's GitHub stats](https://github-readme-stats.vercel.app/api?username=hri7566&show_icons=true&theme=dark)](https://metrics.lecoq.io/Hri7566?template=classic)
+[![Hri7566's GitHub stats](https://github-stats-extended.vercel.app/api?username=Hri7566&show_icons=true&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hri7566&layout=compact&theme=dark)](https://metrics.lecoq.io/Hri7566?template=classic)
+[![Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Hri7566&layout=compact&theme=dark)](https://github.com/stats-organization/github-stats-extended)
